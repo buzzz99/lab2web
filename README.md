@@ -37,7 +37,7 @@ dan CSS.</p>
 <head>
 ```
 * Selanjutnya buka pada brwoser untuk melihat hasilnya.
-![gambar 1](gambar/o1.png)
+![gambar 1](gambar/1.png)
 ### Mendeklarasikan CSS Internal
 * Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 ```python
