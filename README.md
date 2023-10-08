@@ -37,7 +37,7 @@ dan CSS.</p>
 <head>
 ```
 * Selanjutnya buka pada brwoser untuk melihat hasilnya.
-![gambar 1](gambar/1.png)
+![gambar 1](gambar/01.png)
 ### Mendeklarasikan CSS Internal
 * Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 ```python
@@ -65,7 +65,7 @@ dan CSS.</p>
 ```
 * Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat
 hasilnya.
-![gambar 2](gambar/o2.png)
+![gambar 2](gambar/02.png)
 ### Menambahkan Inline CSS
 * Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
 ```python
